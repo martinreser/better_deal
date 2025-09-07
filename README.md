@@ -15,7 +15,7 @@ A Flutter app that helps users compare commission structures and exchange scenar
 - **Custom descriptions** - Name your commissions for clarity
 - **Smart calculation order** - Commissions applied sequentially for accuracy
 
-### 📈 **Reimbursement Management** *(NEW)*
+### 📈 **Reimbursement Management**
 - **Offset commission costs** with reimbursements (cashback, refunds, etc.)
 - **Dual types** - Percentage or fixed amount reimbursements
 - **Applied after commissions** for accurate final calculations
