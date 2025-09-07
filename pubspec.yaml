@@ -1,0 +1,26 @@
+name: better_deal
+description: "A Flutter app that helps users compare commission structures and exchange scenarios to find the best financial deal."
+publish_to: "none"
+version: 1.0.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  intl: ^0.19.0
+  shared_preferences: ^2.2.2
+  share_plus: ^10.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
